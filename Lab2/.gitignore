@@ -57,3 +57,17 @@ coverage.xml
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Logs and databases
+d0.mat
+d1.mat
+d2.mat
+d3.mat
+d4.mat  
+d5.mat
+d6.mat
+d7.mat
+d8.mat
+d9.mat
+diag5x5.mat
+ocra.mat
