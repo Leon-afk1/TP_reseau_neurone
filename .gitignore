@@ -59,15 +59,18 @@ ehthumbs.db
 Desktop.ini
 
 # Logs and databases
-d0.mat
-d1.mat
-d2.mat
-d3.mat
-d4.mat  
-d5.mat
-d6.mat
-d7.mat
-d8.mat
-d9.mat
-diag5x5.mat
-ocra.mat
+Lab2/d0.mat
+Lab2/d1.mat
+Lab2/d2.mat
+Lab2/d3.mat
+Lab2/d4.mat  
+Lab2/d5.mat
+Lab2/d6.mat
+Lab2/d7.mat
+Lab2/d8.mat
+Lab2/d9.mat
+Lab2/diag5x5.mat
+Lab2/ocra.mat
+
+# Database files
+MiniProjet/TrainIJCNN2013/
