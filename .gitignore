@@ -74,3 +74,6 @@ Lab2/ocra.mat
 
 # Database files
 MiniProjet/TrainIJCNN2013/
+
+# TensorFlow saved models
+*.keras
