@@ -1,10 +1,6 @@
 # TP_reseau_neurone
 
-## MiniProjet - Installation et préparation
-
-Ce projet nécessite la création d’un environnement virtuel, l’installation des dépendances et le téléchargement manuel du dataset. Suivez les étapes ci-dessous.
-
----
+## MiniProjet
 
 ### 1. Créer un environnement virtuel
 
